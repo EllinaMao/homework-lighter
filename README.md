@@ -1,13 +1,15 @@
 # Welcome to your Expo app 👋
 
-Користувача на екрані зустрічає кнопка "Включити відео"
-При натисканні запускається анімація завантаження( зробіть прогресс бар)
-Після того як він заповниться включається аудиосигнал "Успіх"
-І з'являється відео, яке автоматично починає відігравати.
+task text
+![task](image-1.png)
 
+![drawer](image.png)
 
-https://github.com/user-attachments/assets/345bccc2-c633-41d8-b574-75d8400b03d0
+header button:
+![button](image-2.png)
 
+name, year and version
+![info](image-3.png)
 
 ## Get started
 
@@ -60,4 +62,4 @@ To learn more about developing your project with Expo, look at the following res
 Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions
