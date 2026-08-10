@@ -6,7 +6,7 @@ task text
 ![drawer](image.png)
 
 header button:
-![button](image-2.png)
+![button](image-4.png)
 
 name, year and version
 ![info](image-3.png)

@@ -17,6 +17,16 @@ const TabLayout = () => {
             swipeEnabled: true,
             swipeEdgeWidth: 100,
             headerShown: true,
+            headerStyle: {
+              backgroundColor: "#7fa3c4",
+              shadowColor: "transparent",
+              elevation: 0,
+            },
+            headerTintColor: "#ffffff",
+            headerTitleStyle: {
+              fontWeight: "bold",
+              fontSize: 18,
+            },
             drawerStyle: {
               width: "70%",
               // borderWidth: 0,
@@ -26,7 +36,7 @@ const TabLayout = () => {
               padding: 0,
               margin: 0,
             },
-            drawerActiveTintColor: "#86a6b6",
+            drawerActiveTintColor: "#7fa3c4",
             drawerActiveBackgroundColor: "#ffffff",
             drawerLabelStyle: {
               color: "#000000",
