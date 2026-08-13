@@ -1,3 +1,4 @@
+import Entypo from "@expo/vector-icons/Entypo";
 import Ionicons from "@expo/vector-icons/Ionicons";
 import { Drawer } from "expo-router/drawer";
 import React from "react";
@@ -59,7 +60,7 @@ const TabLayout = () => {
             options={{
               title: "Youtube clone",
               drawerIcon: ({ color, size }) => (
-                <Ionicons name="call-outline" size={size} color={color} />
+                <Entypo name="youtube-with-circle" size={size} color={color} />
               ),
             }}
           />
