@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/ba46cc4d-719e-4f56-8507-966ec71df665
+
+
+
+https://github.com/user-attachments/assets/c63ba4b4-5c56-4d6b-99d4-5eeb77147a63
+
 # Welcome to your Expo app 👋
 
 Встановіть expo-camera.
@@ -8,6 +16,9 @@
 ![alt text](image.png)
 
 видео с телефона
+
+https://github.com/user-attachments/assets/6e3a15c0-9be2-484f-899c-52218d85df87
+
 
 ## Get started
 
