@@ -64,6 +64,15 @@ const TabLayout = () => {
               ),
             }}
           />
+          <Drawer.Screen
+            name="lighter"
+            options={{
+              title: "Lighter",
+              drawerIcon: ({ color, size }) => (
+                <Entypo name="flashlight" size={size} color={color} />
+              ),
+            }}
+          />
         </Drawer>
       </GestureHandlerRootView>
     </SafeAreaProvider>
